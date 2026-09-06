@@ -7,6 +7,8 @@
 >
 > Ferramenta de análise que recebe um pacote IPv4 em formato hexadecimal e disseca cada campo do cabeçalho usando operações de bit — o mesmo mecanismo que Wireshark, Scapy e tcpdump usam internamente para exibir campos de protocolo.
 
+## `Developed by: HKK`
+
 ---
 
 ## `$ cat ./objective.txt`
